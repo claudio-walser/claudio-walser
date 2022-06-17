@@ -1,1 +1,25 @@
-Nothing to see here yet
+<a href="https://github.com/claudio-walser">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/claudio-walser">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/claudio-walser">
+  <img align="center" width="49%" src="./activity.svg" />
+</a>
+
+<a href="https://github.com/claudio-walser">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/claudio-walser">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/claudio-walser">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/claudio-walser">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
